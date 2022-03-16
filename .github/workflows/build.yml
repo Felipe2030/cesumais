@@ -21,4 +21,4 @@ jobs:
         uses: Felipe2030/cesumais
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./build
+          publish_dir: ./dist
