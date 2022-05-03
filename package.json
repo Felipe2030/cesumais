@@ -2,7 +2,7 @@
   "name": "cesumais",
   "version": "0.1.0",
   "private": true,
-  "homepage": "cesumais/",
+  "homepage": "https://felipe2030.github.io/cesumais/",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
